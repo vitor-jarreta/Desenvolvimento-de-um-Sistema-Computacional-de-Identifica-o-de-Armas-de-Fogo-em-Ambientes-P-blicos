@@ -26,3 +26,9 @@
   <a href="https://www.reddit.com/submit?url=https://github.com/vitor-jarreta/Desenvolvimento-de-um-Sistema-Computacional-de-Identifica-o-de-Armas-de-Fogo-em-Ambientes-P-blicos&title=Desenvolvimento de um Sistema Computacional de Identificação de Armas de Fogo em Ambientes Públicos"><img src="https://img.shields.io/badge/Compartilhe-FF4500?logo=reddit&logoColor=white"></a>
   <a href="https://api.whatsapp.com/send?text=https://github.com/vitor-jarreta/Desenvolvimento-de-um-Sistema-Computacional-de-Identifica-o-de-Armas-de-Fogo-em-Ambientes-P-blicos"><img src="https://img.shields.io/badge/Compartilhe-25D366?logo=whatsapp&logoColor=white"</a>
 </div>
+
+<div>
+  <hr>
+  <h3>❗Sobre o Projeto: <img align="right" width="128px" height="128px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHUOxsOjwLHni-kUtfqn2Vi6EA_j8HgsAASQ&s"></h3>
+  <p>Esse projeto trata-se do meu trabalho de conclusão de curso, apresentado em 2024, para minha graduação em engenharia da computação pela Universidade de Ribeirão Preto (Unaerp).</p>
+</div>
