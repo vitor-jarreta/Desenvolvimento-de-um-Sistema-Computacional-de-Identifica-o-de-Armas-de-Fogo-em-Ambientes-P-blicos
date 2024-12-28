@@ -31,4 +31,7 @@
   <hr>
   <h3>❗Sobre o Projeto: <img align="right" width="128px" height="128px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHUOxsOjwLHni-kUtfqn2Vi6EA_j8HgsAASQ&s"></h3>
   <p>Esse projeto trata-se do meu trabalho de conclusão de curso, apresentado em 2024, para minha graduação em engenharia da computação pela Universidade de Ribeirão Preto (Unaerp).</p>
+  <p>O projeto busca demonstrar o meu conhecimento dentro de uma das várias áreas de aplicações existentes dentro da áres de tecnologia, engenharia de computação. Desta forma, a área escolhida foi a junção de duas, desenvolver e demonstrar os conhecimentos obtidos dentro da área de inteligência artificial agragado com a área de processamento de imagens, ou seja de visão computacional.</p>
+  <img align="left" width="156px" height="86px" src="https://miro.medium.com/v2/resize:fit:1200/1*bSLNlG7crv-p-m4LVYYk3Q.png">
+  <p>Assim, para o desenvolvimento desse projeto foi utilizado um framework que tende a estar cada vez mais em alta, o YOLO, que foi desenvolvido em 2015 para aplicações em vídeos/frames em tempo real, mas tendo aplicações em imagens estáticas. No qual, é essa aplicaçõa que o estudo usa. </p>
 </div>
